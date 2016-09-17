@@ -1,0 +1,7 @@
+[core]
+    editor = vim
+[push]
+	default = matching
+[user]
+	name = polyglotpiglet
+	email = alexandra.p.batey@gmail.com
